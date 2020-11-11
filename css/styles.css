@@ -1,0 +1,18 @@
+body {
+  background-color: #fff1f5;
+}
+
+hr {
+  border: 1px dashed black;
+}
+
+h3 {
+  color: rgb(228, 129, 93);
+}
+h1 {
+  color: rgb(156, 75, 40);
+}
+/*class selectors*/
+.dancingpotato {
+  height: 100px;
+}
